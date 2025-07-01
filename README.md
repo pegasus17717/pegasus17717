@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Zhonglin Zhao
+
+🎓 Passionate educator | 💻 Code enthusiast | 🧠 Consultant
+
+I specialize in using the power of code to empower students and drive business growth. Whether in the classroom or the boardroom, I love turning complex ideas into practical solutions that make a real impact.
 
 I’m currently working on Python, Java, and MySQL projects with Financial Analysis and Consulting Projects.
 
