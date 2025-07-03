@@ -17,8 +17,7 @@ Whether it’s getting lost in a great film or diving into an immersive game wor
 
 Education Background:
 
-🏆 High School Valedictorian
-Graduated top of my class with a strong academic foundation in mathematics and sciences. Recognized for leadership, discipline, and a passion for lifelong learning.
+🏆 High School Valedictorian, Graduated top of my class with a strong academic foundation in mathematics and sciences. Recognized for leadership, discipline, and a passion for lifelong learning.
 
 📦 B.S. in Supply Chain & Information Systems, Penn State University-University Park
 Completed a rigorous undergraduate program at one of the top-ranked supply chain schools in the U.S. Gained hands-on experience in logistics, operations, procurement, and enterprise systems, with exposure to data-driven decision making.
