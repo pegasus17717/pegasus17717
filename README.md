@@ -1,6 +1,6 @@
 👋 Hi, I’m Zhonglin Zhao
 
-🎓 Passionate educator | 💻 Code enthusiast | 🧠 Consultant
+🎓 Passionate educator | 💻 Code enthusiast | 🧠 Innovative Consultant
 
 I specialize in using the power of code to empower students and drive business growth. Whether in the classroom or the boardroom, I love turning complex ideas into practical solutions that make a real impact.
 
