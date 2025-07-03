@@ -11,7 +11,10 @@ I’m currently working on Python, Java, and MySQL projects with Financial Analy
 -How to get into top universities in the USA & UK
 -Crafting personal statement and college application strategy
 -Turning a vague idea into a data-backed, presentable project
- 
+
+🎬 Fun Fact: I’m a huge fan of movies and video games
+Whether it’s getting lost in a great film or diving into an immersive game world, I love exploring stories and ideas through visual and interactive media. It’s my favorite way to relax, recharge, and sometimes even find inspiration for creative projects!
+
 Education Background:
 
 🏆 High School Valedictorian
@@ -23,8 +26,6 @@ Completed a rigorous undergraduate program at one of the top-ranked supply chain
 🎓 MSc Graduate, Imperial College London
 Earned a Master’s degree from one of the world’s leading research universities. Specialized in data analytics and operations strategy, combining academic depth with practical industry insight.
 
-🎬 Fun Fact: I’m a huge fan of movies and video games
-Whether it’s getting lost in a great film or diving into an immersive game world, I love exploring stories and ideas through visual and interactive media. It’s my favorite way to relax, recharge, and sometimes even find inspiration for creative projects!
 
 
 <!--
