@@ -4,7 +4,7 @@
 
 I specialize in using the power of code to empower students and drive business growth. Whether in the classroom or the boardroom, I love turning complex ideas into practical solutions that make a real impact.
 
-I’m currently working on Python, Java, and MySQL projects with Financial Analysis and Consulting Projects.
+I’m currently working on Python, Java, and MySQL projects with Financial Analysis, Consulting Projects, and Education Application.
 
 💬 Ask Me About
 -Building a strong programming foundation (especially for non-CS students)
