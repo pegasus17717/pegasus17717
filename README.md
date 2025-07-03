@@ -7,10 +7,10 @@ I specialize in using the power of code to empower students and drive business g
 I’m currently working on Python, Java, and MySQL projects with Financial Analysis and Consulting Projects.
 
 💬 Ask Me About
-	-Building a strong programming foundation (especially for non-CS students)
-  -How to get into top universities in the USA & UK
-	-Crafting personal statement and college application strategy
-	-Turning a vague idea into a data-backed, presentable project
+-Building a strong programming foundation (especially for non-CS students)
+-How to get into top universities in the USA & UK
+-Crafting personal statement and college application strategy
+-Turning a vague idea into a data-backed, presentable project
  
 Education Background:
 🏆 High School Valedictorian
