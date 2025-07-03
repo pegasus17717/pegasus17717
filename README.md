@@ -13,6 +13,7 @@ I’m currently working on Python, Java, and MySQL projects with Financial Analy
 -Turning a vague idea into a data-backed, presentable project
  
 Education Background:
+
 🏆 High School Valedictorian
 Graduated top of my class with a strong academic foundation in mathematics and sciences. Recognized for leadership, discipline, and a passion for lifelong learning.
 
